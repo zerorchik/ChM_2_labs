@@ -1,0 +1,16 @@
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\bin\Debug\net5.0\chm2_lab_7.exe
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\bin\Debug\net5.0\chm2_lab_7.deps.json
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\bin\Debug\net5.0\chm2_lab_7.runtimeconfig.json
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\bin\Debug\net5.0\chm2_lab_7.runtimeconfig.dev.json
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\bin\Debug\net5.0\chm2_lab_7.dll
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\bin\Debug\net5.0\ref\chm2_lab_7.dll
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\bin\Debug\net5.0\chm2_lab_7.pdb
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\obj\Debug\net5.0\chm2_lab_7.csproj.AssemblyReference.cache
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\obj\Debug\net5.0\chm2_lab_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\obj\Debug\net5.0\chm2_lab_7.AssemblyInfoInputs.cache
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\obj\Debug\net5.0\chm2_lab_7.AssemblyInfo.cs
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\obj\Debug\net5.0\chm2_lab_7.csproj.CoreCompileInputs.cache
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\obj\Debug\net5.0\chm2_lab_7.dll
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\obj\Debug\net5.0\ref\chm2_lab_7.dll
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\obj\Debug\net5.0\chm2_lab_7.pdb
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_7\obj\Debug\net5.0\chm2_lab_7.genruntimeconfig.cache

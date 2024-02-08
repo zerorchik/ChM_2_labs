@@ -1,0 +1,4 @@
+﻿  chm2_lab_3.cpp
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_3\chm2_lab_3.cpp(29,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Akil0515\source\VS_projects\chm2_lab\chm2_lab_3\chm2_lab_3.cpp(68,6): warning C4101: 'method': unreferenced local variable
+  chm2_lab_3.vcxproj -> C:\Users\Akil0515\source\VS_projects\chm2_lab\Debug\chm2_lab_3.exe
